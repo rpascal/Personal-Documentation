@@ -63,3 +63,14 @@ Add to package.json
 `"generate-smui-theme": "smui-theme compile static/smui.css -i src/theme"`
 
 Appears like you need to regenerate after adding each component to properly get the css
+
+## Forms / Form Validation
+
+https://felte.dev/docs/svelte/validators
+
+Can be used for form validation
+- https://felte.dev/docs/svelte/validators#using-zod
+
+## Toast
+
+https://www.npmjs.com/package/@zerodevx/svelte-toast
